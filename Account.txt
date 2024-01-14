@@ -1,0 +1,32 @@
+Vercel
+
+ticketmasternextjs@gmail.com
+
+Github:
+
+ticketmasternextjs@gmail.com
+GrMbPoMvf3X755k
+Username:ticketmasternextjs
+
+Gmail:
+
+ticketmasternextjs@gmail.com
+GrMbPoMvf3X755k
+
+Clerk
+Username: TicketMaster                        
+ticketmasternextjs@gmail.com
+GrMbPoMvf3X755k
+
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_c3RyaWtpbmctb3lzdGVyLTU4LmNsZXJrLmFjY291bnRzLmRldiQ
+CLERK_SECRET_KEY=sk_test_DQKcDCftDJl5bzzH4QqKZaFaK9ryO5P8ut85MADkMl
+
+MongoDB
+
+ticketmasternextjs@gmail.com
+GrMbPoMvf3X755k
+
+Username: ticketmasternextjs
+Password: ZFpHOygxum2fczgc
+
+MONGODB_URI=mongodb+srv://ticketmasternextjs:ycmDTWV00a7esoqo@cluster0.kdzeubi.mongodb.net/?retryWrites=true&w=majority
